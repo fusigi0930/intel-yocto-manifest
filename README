@@ -1,4 +1,4 @@
-* this is a repo based manifest to build ti beaglebone yocto qws system
+* this is a repo based manifest to build intel atom platform
 
 * get repo from google by using this command:
 curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
